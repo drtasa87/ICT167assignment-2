@@ -1,0 +1,9 @@
+1772,The Murderer,Dan,Brown,9783161484100,250,2020/05/25,Marko Draksimovic,Crime
+986,Dead Joker,Anne,Holt,9780857898142,451,2020/05/20,Joshua Soriano,Crime
+1212,The Survivor,Kyle,Mills,978171141997,388,2020/05/21,Jack Smith,Crime
+1473,The Master and Margarita,Mikhail,Bulgakov,9780099540946,445,2020/05/26,Mike Stacy,Drama
+721,Close your eyes,Michael,Robotham,9780751552874,389,2020/05/26,Clare Bailey,Crime
+1003,The Whisperer,Donato,Carrisi,9780349123448,474,2020/05/24,Sadaf Durrani,Crime
+1112,The Notebook,Nicholas,Sparks,0733800181,213,2020/05/27,Logan Mila,Drama
+754,Don Quixote,Miguel,De Cervantes,9780451531810,1040,2020/05/19,Susan Boil,Drama
+742,The Count 0f Monte Cristo,Alexandre,Dumas,9781853267338,894,2020/05/20,Peter Jackson,Drama
